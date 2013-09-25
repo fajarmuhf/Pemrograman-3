@@ -25,7 +25,7 @@ public class belajarGUI{
         JLabel labelku = new JLabel("Hello World");
         labelku.setPreferredSize(new Dimension(20, 20));
 		labelku.setForeground( new Color(0 ,191, 255));
-        labelku.setAlignmentX(JButton.CENTER_ALIGNMENT);
+        labelku.setAlignmentX(JLabel.LEFT_ALIGNMENT);
         
         mainPanel.add(labelku);
         
