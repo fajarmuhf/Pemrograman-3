@@ -1,0 +1,157 @@
+
+gameplay.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 452
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+losetimebox
+  rotate: false
+  xy: 1, 133
+  size: 440, 317
+  orig: 440, 317
+  offset: 0, 0
+  index: -1
+winbox
+  rotate: false
+  xy: 443, 133
+  size: 440, 317
+  orig: 440, 317
+  offset: 0, 0
+  index: -1
+priestin
+  rotate: false
+  xy: 1, 67
+  size: 241, 64
+  orig: 241, 64
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 1, 1
+  size: 241, 64
+  orig: 241, 64
+  offset: 0, 0
+  index: -1
+devilin
+  rotate: false
+  xy: 244, 67
+  size: 241, 64
+  orig: 241, 64
+  offset: 0, 0
+  index: -1
+go
+  rotate: false
+  xy: 244, 1
+  size: 241, 64
+  orig: 241, 64
+  offset: 0, 0
+  index: -1
+priestout
+  rotate: false
+  xy: 487, 67
+  size: 241, 64
+  orig: 241, 64
+  offset: 0, 0
+  index: -1
+devilout
+  rotate: false
+  xy: 487, 3
+  size: 239, 62
+  orig: 239, 62
+  offset: 0, 0
+  index: -1
+option
+  rotate: false
+  xy: 885, 352
+  size: 97, 98
+  orig: 97, 98
+  offset: 0, 0
+  index: -1
+shippriest
+  rotate: false
+  xy: 730, 79
+  size: 119, 52
+  orig: 119, 52
+  offset: 0, 0
+  index: -1
+shiptwopriest
+  rotate: false
+  xy: 885, 298
+  size: 119, 52
+  orig: 119, 52
+  offset: 0, 0
+  index: -1
+shiptwodevil
+  rotate: false
+  xy: 885, 244
+  size: 119, 52
+  orig: 119, 52
+  offset: 0, 0
+  index: -1
+shipdevil
+  rotate: false
+  xy: 885, 190
+  size: 119, 52
+  orig: 119, 52
+  offset: 0, 0
+  index: -1
+shipempty
+  rotate: false
+  xy: 885, 136
+  size: 119, 52
+  orig: 119, 52
+  offset: 0, 0
+  index: -1
+shippriestdevil
+  rotate: false
+  xy: 730, 25
+  size: 119, 52
+  orig: 119, 52
+  offset: 0, 0
+  index: -1
+priestflip
+  rotate: false
+  xy: 963, 913
+  size: 35, 79
+  orig: 35, 79
+  offset: 0, 0
+  index: -1
+devil
+  rotate: false
+  xy: 963, 832
+  size: 35, 79
+  orig: 35, 79
+  offset: 0, 0
+  index: -1
+priest
+  rotate: false
+  xy: 963, 751
+  size: 35, 79
+  orig: 35, 79
+  offset: 0, 0
+  index: -1
+devilflip
+  rotate: false
+  xy: 963, 670
+  size: 35, 79
+  orig: 35, 79
+  offset: 0, 0
+  index: -1
+
+gameplay2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+losedeadbox
+  rotate: false
+  xy: 1, 1
+  size: 440, 317
+  orig: 440, 317
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+
+spleshscreen.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 250
+  size: 960, 548
+  orig: 960, 548
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1, 1
+  size: 500, 247
+  orig: 500, 247
+  offset: 0, 0
+  index: -1

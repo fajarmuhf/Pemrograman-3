@@ -1,0 +1,54 @@
+
+menuutama.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1, 199
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+quit
+  rotate: false
+  xy: 1, 133
+  size: 241, 64
+  orig: 241, 64
+  offset: 0, 0
+  index: -1
+score
+  rotate: false
+  xy: 1, 67
+  size: 241, 64
+  orig: 241, 64
+  offset: 0, 0
+  index: -1
+about
+  rotate: false
+  xy: 244, 133
+  size: 241, 64
+  orig: 241, 64
+  offset: 0, 0
+  index: -1
+login
+  rotate: false
+  xy: 1, 1
+  size: 241, 64
+  orig: 241, 64
+  offset: 0, 0
+  index: -1
+help
+  rotate: false
+  xy: 244, 67
+  size: 241, 64
+  orig: 241, 64
+  offset: 0, 0
+  index: -1
+register
+  rotate: false
+  xy: 487, 133
+  size: 241, 64
+  orig: 241, 64
+  offset: 0, 0
+  index: -1
